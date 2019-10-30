@@ -1,8 +1,8 @@
 name: after_enter_anim
 description: A new Flutter package.
-version: 0.0.1
-author:
-homepage:
+version: 1.0.0
+author: luodilong <luodilong@gmail.com>
+homepage: https://github.com/dilongl/flutter_after_enter_anim
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
