@@ -12,8 +12,6 @@ Add `with AfterEnterAnimMixin<MyWidget>` mixin to your `State<MyWidget>` class a
 
 This demo showcases how this package resolves the shortcomings shown above:
 
-**GOOD CODE**
-
 ```dart
 import 'package:after_enter_anim/after_enter_anim.dart';
 import 'package:flutter/material.dart';

@@ -1,6 +1,6 @@
 name: after_enter_anim
-description: A new Flutter package.
-version: 1.0.0
+description: Brings functionality to execute code after the enter animation finish.
+version: 1.0.3
 author: luodilong <luodilong@gmail.com>
 homepage: https://github.com/dilongl/flutter_after_enter_anim
 
