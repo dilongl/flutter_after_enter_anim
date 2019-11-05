@@ -1,3 +1,7 @@
+## 1.0.4
+
+  * update readme
+  
 ## 1.0.3
 
   * update changelog

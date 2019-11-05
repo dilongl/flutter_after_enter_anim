@@ -1,4 +1,6 @@
-# Flutter After Layout
+# Flutter After Enter Anim
+
+[![pub package](https://img.shields.io/pub/v/after_enter_anim.svg)](https://pub.dartlang.org/packages/after_enter_anim)
 
 Brings functionality to execute code after the enter animation finish.
 
